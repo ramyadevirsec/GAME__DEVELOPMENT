@@ -277,9 +277,7 @@ int main()
     }
 }
 
-Program To write a c program to implement 2D transformation of image.
-DEVELOPED BY: GURU PRASATH K M
-REGISTER NUMBER: 212224230079
+
 
 ```
 
